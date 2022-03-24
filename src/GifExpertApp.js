@@ -1,10 +1,10 @@
 import React from "react";
 
 export const GifExpertApp = () => {
-    return(
+    return (
         <>
-        <h2>GifExpertApp</h2>
-            <hr />
+            <h2>GifExpertApp</h2>
+            <hr/>
         </>
     )
 };
